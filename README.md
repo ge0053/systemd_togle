@@ -1,2 +1,7 @@
 # systemd_togle
-togle a systemd service
+Script for togeling a systemd service.
+
+## Usage
+```bash
+systemd_togle [-s|-t] serviceName
+```
